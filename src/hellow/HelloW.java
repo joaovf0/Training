@@ -18,6 +18,9 @@ public class HelloW {
         // TODO code application logic here
         System.out.println("hello jão");
         
+        while(true){
+            System.out.println("fodase");
+        }
     }
     
 }
